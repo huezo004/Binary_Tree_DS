@@ -1,0 +1,2 @@
+O(N) because we are deleting each node of the tree,
+visiting every node gives a complexity of O(N). 
